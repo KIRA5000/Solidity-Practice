@@ -17,3 +17,10 @@ sudo apt-get install solc
 ```
 https://remix.ethereum.org/
 ```
+
+## References
+
+```
+ - Official language documentation: https://docs.soliditylang.org/en/latest/
+ - Dapp University Youtube: https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
+```
