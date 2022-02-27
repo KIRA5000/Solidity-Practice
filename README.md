@@ -5,7 +5,7 @@
 
  ## Info
 
- ### BloackChain Info
+ ### BlockChain Info
  - Satoshi Nakamote, published a Bitcoin Whitepaper in 2008, which worked a a foundation of our current bitcoin.
  - Titled: Bitcoin: A Peer-to-Peer Electronic Cash System
  - This paper described a way of exchanging a currency, Bitcoin, that combines cryptography, computer science, and game theory in its design and implementation.
