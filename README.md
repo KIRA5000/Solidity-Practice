@@ -5,10 +5,19 @@
 
  ## Info
 
+ ### BloackChain Info
+ - Satoshi Nakamote, published a Bitcoin Whitepaper in 2008, which worked a a foundation of our current bitcoin.
+ - Titled: Bitcoin: A Peer-to-Peer Electronic Cash System
+ - This paper described a way of exchanging a currency, Bitcoin, that combines cryptography, computer science, and game theory in its design and implementation.
+ - In other words a blockchain is a decentralized ledger that records transactions or activity between two participants permanently with verification.
+ - This verification comes in the form of reviewing cryptographic functions and timestamps. 
+
+ ### Solidity Info
  - It is a contract-based language. That means it basically used to write smart contracts in EVM.
  - It is inspired from C++, Python and JavaScript.
  - It is a statically typed language, that means we need to speciffy data types at compile time only, unlike python
  - Each smart contract deployed in Block chain is immutable in nature.
+ 
 
 ## Compiler installation
 
