@@ -11,11 +11,11 @@ contract Test {
         count = 0;
     }
 
-    function incrementCount() public {
+    function incrementCount() public {   // This function will updatee state of contract hence upgrading it's hash value
         count++;
     }
 
-    function getCount() public view returns(uint) {  // We don't need a get method if we make out state variable public
+    function getCount() public view returns(uint) {  // We don't need a get method if we make our state variable public
         return count;                                // ie like 'uint public count;';
     }
 }
