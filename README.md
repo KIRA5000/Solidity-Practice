@@ -3,6 +3,12 @@
  - This directory is created to learn Solidity.
  - It contains all the code that I would practice to master solidity.
 
+ ## Info
+
+ - It is a contract-based language. That means it basically used to write smart contracts in EVM.
+ - It is inspired from C++, Python and JavaScript.
+ - It is a statically typed language, that means we need to speciffy data types at compile time only, unlike python
+
 ## Compiler installation
 
 This step is not needed if you plan to use remix
