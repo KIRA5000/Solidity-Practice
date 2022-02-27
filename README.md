@@ -8,6 +8,7 @@
  - It is a contract-based language. That means it basically used to write smart contracts in EVM.
  - It is inspired from C++, Python and JavaScript.
  - It is a statically typed language, that means we need to speciffy data types at compile time only, unlike python
+ - Each smart contract deployed in Block chain is immutable in nature.
 
 ## Compiler installation
 
