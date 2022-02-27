@@ -7,8 +7,8 @@ contract Test {
     uint count;
     // unint count = 0;    Instead of using constructor we can directly initialize state of contract
 
-    constructor() public {
-        count = 0;
+    constructor(uint _count) public {   // this value will be asked before deployment
+        count = _count;
     }
 
     function incrementCount() public {   // This function will updatee state of contract hence upgrading it's hash value
