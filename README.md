@@ -5,6 +5,7 @@
 
 ## Compiler installation
 
+This step is not needed if you plan to use remix
 ```
 sudo add-apt-repository ppa:ethereum/ethereum
 sudo add-apt-repository ppa:ethereum/ethereum-dev
