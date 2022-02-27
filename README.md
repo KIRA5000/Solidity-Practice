@@ -22,5 +22,5 @@ https://remix.ethereum.org/
 
 ```
  - Official language documentation: https://docs.soliditylang.org/en/latest/
- - Dapp University Youtube: https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
+ - Dapp University Youtube: https://www.youtube.com/watch?v=YJ-D1RMI0T0
 ```
