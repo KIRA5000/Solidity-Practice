@@ -11,7 +11,7 @@ contract Test {
         count = _count;
     }
 
-    function incrementCount() public {   // This function will updatee state of contract hence upgrading it's hash value
+    function incrementCount() public {   // This function will updatee state of contract
         count++;
     }
 
