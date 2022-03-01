@@ -52,4 +52,5 @@ https://remix.ethereum.org/
  - Coursera Introduction to BlockChain: https://www.coursera.org/learn/blockchain-foundations-and-use-cases
  - Official language documentation: https://docs.soliditylang.org/en/latest/
  - Dapp University Youtube: https://www.youtube.com/watch?v=YJ-D1RMI0T0
+ - GitHub material: https://github.com/willitscale/learning-solidity
 ```
