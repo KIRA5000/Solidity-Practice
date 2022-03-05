@@ -6,6 +6,8 @@ pragma solidity >=0.8.12 <0.9.0;
 // 2. memory : this value will only last till the execution, it mutable and non persistent
 // 3. calldata(little bit unclear) : it is only used as parameter of external function, it's immutable and non persistent
 
+// Data location can only be specified for array, struct or mapping types
+
 contract Test {
     int[5] staticArray; // An array with fixed size that is 5
     int[] dynamicArray; // Declared a dynamic array which can be initialized by new keyword
