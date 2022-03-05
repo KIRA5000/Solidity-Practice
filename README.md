@@ -29,6 +29,7 @@
  - It is a statically typed language, that means we need to speciffy data types at compile time only, unlike python
  - Each smart contract deployed in Block chain is immutable in nature.
  - View and Pure Functions are called calls as they don't change state of our contract, so Gas charge is null. 
+ - Only Transactions are chargable in state.
  
 
 ## Compiler installation
