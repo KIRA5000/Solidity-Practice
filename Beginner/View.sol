@@ -2,6 +2,7 @@ pragma solidity ^0.8.12;
 
 // This code is not supposed to work
 // view states that you will use this function to not alter state of contract, ie just for viewing purpose
+// view makes a call which doesn't consume Gas, hence no charge for a call
 
 contract Test {
     int count;
